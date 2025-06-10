@@ -1,5 +1,8 @@
 # Windows Server Active Directory Infrastructure Project
 
+## 📄 **[➤ View Complete Project Documentation (PDF)](Project-Documentation.pdf)**
+*Contains network topology diagrams, server configurations, and visual project overview*
+
 ## 🚀 Project Overview
 Complete Windows Server infrastructure deployment featuring Active Directory Domain Services, DNS management, IIS web hosting, and advanced Group Policy configurations across multi-site topology.
 
